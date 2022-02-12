@@ -1,0 +1,17 @@
+posicion;carro;tipo de llanta;desgaste
+1;C1;C;12
+1;C2;D;11
+1;C3;A;13
+1;C4;B;8
+2;C1;B;14
+2;C2;C;12
+2;C3;D;11
+2;C4;A;13
+3;C1;A;17
+3;C2;B;14
+3;C3;C;10
+3;C4;D;9
+4;C1;D;13
+4;C2;A;14
+4;C3;B;13
+4;C4;C;9
